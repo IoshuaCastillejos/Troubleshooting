@@ -1,9 +1,8 @@
 # Troubleshooting
 
-Pourpose of this 
 This project provides SQL queries and scripts for resolving incidents in a database system.
 
-#Requirements
+# Requeriments
 To use this project, you will need the following:
 
 Microsoft SQL Server Managment Studio
