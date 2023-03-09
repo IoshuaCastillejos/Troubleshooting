@@ -24,9 +24,6 @@ Execute the [queries/scripts] to resolve the incident.
 
 # Troubleshooting
 
-If you encounter any issues with this project, try the following:
-
-[list of possible issues and solutions]
 If you are still having issues, please submit a bug report to the project repository.
 
 
