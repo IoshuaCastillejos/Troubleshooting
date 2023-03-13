@@ -1,6 +1,0 @@
-select CreatedBy,CreatedByServiceDeliveryTool,CreatedDateTime,* from archive where archiveid in (
-778697, 
-781039, 
-781078, 
-781101
-)
