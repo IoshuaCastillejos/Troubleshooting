@@ -1,4 +1,4 @@
-# SQL Incident Resolution
+# Incident Resolution
 
 This project provides SQL queries and scripts for resolving incidents in a database system.
 
